@@ -86,7 +86,8 @@
       }
 
       CsvToHtmlTable.init({
-        csv_path: 'data/files.csv',
+        //csv_path: 'data/files.csv',
+	csv_path:'https://raw.githubusercontent.com/johanvdw/fosdem-360/master/data/files.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
