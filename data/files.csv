@@ -1,22 +1,39 @@
 File, room, poi, comment
 PHOTO_0161.jpg,parking,https://nav.fosdem.org/l/c:0:243.73:221.74/,near F
 PHOTO_0162.jpg,parking,https://nav.fosdem.org/l/c:0:254.57:221.54/,near F
+R0017453.JPG,parking,https://nav.fosdem.org/l/c:0:243.22:222.71/,parking side F
+R0017454.JPG,parking,https://nav.fosdem.org/l/c:0:232.48:222.35/,
+R0017455.JPG,parking,https://nav.fosdem.org/l/c:0:255.69:222.48/,near stairs to entrance F
 PHOTO_0163.jpg,path-slope-f,https://nav.fosdem.org/l/c:0:254.57:212.16/,path between parking and F
 PHOTO_0164.jpg,path-slope-f,https://nav.fosdem.org/l/c:0:255.09:207.18/,path between parking and F
-PHOTO_0165.jpg,,,
-PHOTO_0166.jpg,,,
-PHOTO_0167.jpg,,,
-PHOTO_0168.jpg,,,
-PHOTO_0169.jpg,slope,,
-PHOTO_0170.jpg,,,
-PHOTO_0171.jpg,,,
-PHOTO_0172.jpg,,,
-PHOTO_0173.jpg,,,
-PHOTO_0174.jpg,,,
-PHOTO_0175.jpg,slope,,
-PHOTO_0176.jpg,,,
-PHOTO_0177.jpg,,,
-PHOTO_0178.jpg,,,
+R0017461.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.1:213.54/,
+R0017462.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.6:208.62/,
+R0017463.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.87:204.72/,
+R0017464.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.74:197.82/,
+R0017465.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:256.44:193.5/,
+R0017466.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.34:176.02/,
+R0017467.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.34:173.72/,
+R0017468.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:254.57:168.23/,
+R0017469.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:254.68:156.29/,corner of path and slope
+R0017470.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:257.75:156.29/,
+R0017471.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:260.6:155.64/,
+R0017472.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:270.24:154.76/,
+R0017473.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:283.07:156.73/,
+R0017474.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:298.2:155.74/,at start of slope near foodtrucks
+PHOTO_0165.jpg,path-slope-f,,
+PHOTO_0166.jpg,path-slope-f,,
+PHOTO_0167.jpg,path-slope-f,,
+PHOTO_0168.jpg,path-slope-f,,
+PHOTO_0169.jpg,path-slope-f,,
+PHOTO_0170.jpg,path-slope-f,,
+PHOTO_0171.jpg,path-slope-f,,
+PHOTO_0172.jpg,path-slope-f,,
+PHOTO_0173.jpg,path-slope-f,,
+PHOTO_0174.jpg,path-slope-f,,
+PHOTO_0175.jpg,path-slope-f,,
+PHOTO_0176.jpg,main-avenue,https://nav.fosdem.org/l/c:0:300.26:147.34/,front of h near foodtrucks
+PHOTO_0177.jpg,main-avenue,https://nav.fosdem.org/l/c:0:304.12:130.41/,in front of H building at H2 doors
+PHOTO_0178.jpg,main-avenue,https://nav.fosdem.org/l/c:0:299.01:131.53/,
 PHOTO_0179.jpg,h2-hall,https://nav.fosdem.org/l/c:1:291.07:135.26/,infodesk H
 PHOTO_0180.jpg,h2-hall,,infodesk H
 PHOTO_0181.jpg,h2-hall,,infodesk H
@@ -239,36 +256,17 @@ PHOTO_0455.jpg,k-level-1,https://nav.fosdem.org/l/c:0:123.44:286.17/,
 PHOTO_0456.jpg,k-level-1,https://nav.fosdem.org/l/c:0:132.65:288.46/,
 PHOTO_0457.jpg,k-level-1,https://nav.fosdem.org/l/c:0:147.26:292.26/,
 PHOTO_0458.jpg,k-level-1,https://nav.fosdem.org/l/c:0:135.1:266.14/,
-PHOTO_0460.jpg,,,
-PHOTO_0461.jpg,,,
-PHOTO_0462.jpg,,,
-PHOTO_0463.jpg,,,
-PHOTO_0464.jpg,,,
-R0017451.JPG,,,
-R0017452.JPG,,,
-R0017453.JPG,,,
-R0017454.JPG,,,
-R0017455.JPG,,,
-R0017456.JPG,,,
-R0017457.JPG,,,
-R0017458.JPG,,,
-R0017459.JPG,,,
-R0017460.JPG,,,
-R0017461.JPG,,,
-R0017462.JPG,,,
-R0017463.JPG,,,
-R0017464.JPG,,,
-R0017465.JPG,,,
-R0017466.JPG,,,
-R0017467.JPG,,,
-R0017468.JPG,,,
-R0017469.JPG,,,
-R0017470.JPG,,,
-R0017471.JPG,,,
-R0017472.JPG,,,
-R0017473.JPG,,,
-R0017474.JPG,,,
-R0017475.JPG,,,
+PHOTO_0460.jpg,k1-staircase,https://nav.fosdem.org/l/c:1:135.25:290.03/,
+PHOTO_0461.jpg,k1-staircase,https://nav.fosdem.org/l/c:1:136.13:291.66/,
+PHOTO_0462.jpg,k3-hallway,https://nav.fosdem.org/l/c:2:126.99:292.29/,
+PHOTO_0463.jpg,k3-hallway,https://nav.fosdem.org/l/c:2:127.55:283.37/,
+PHOTO_0464.jpg,,,one of K devrooms - unclear
+R0017456.JPG,,https://nav.fosdem.org/l/c:0:261.9:225.14/,near entrance F side parking
+R0017457.JPG,path-slope-f,https://nav.fosdem.org/l/c:0:255.73:213.11/,
+R0017458.JPG,f-side-resto,https://nav.fosdem.org/l/c:0:266.26:212.28/,side entrance F
+R0017459.JPG,,https://nav.fosdem.org/l/c:0:263.09:223.52/,entrance f side parking
+R0017460.JPG,,https://nav.fosdem.org/l/c:0:262.35:231.59/,entrance f side parking
+R0017475.JPG,,https://nav.fosdem.org/l/c:0:300.2:142.78/, between H and ND
 R0017476.JPG,,,
 R0017477.JPG,,,
 R0017478.JPG,,,
