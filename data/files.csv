@@ -1,8 +1,8 @@
 File, room, poi, comment
-PHOTO_0161.jpg,parking,,
-PHOTO_0162.jpg,parking,,
-PHOTO_0163.jpg,,,
-PHOTO_0164.jpg,,,
+PHOTO_0161.jpg,parking,https://nav.fosdem.org/l/c:0:243.73:221.74/,near F
+PHOTO_0162.jpg,parking,https://nav.fosdem.org/l/c:0:254.57:221.54/,near F
+PHOTO_0163.jpg,path-slope-f,https://nav.fosdem.org/l/c:0:254.57:212.16/,path between parking and F
+PHOTO_0164.jpg,path-slope-f,https://nav.fosdem.org/l/c:0:255.09:207.18/,path between parking and F
 PHOTO_0165.jpg,,,
 PHOTO_0166.jpg,,,
 PHOTO_0167.jpg,,,
@@ -199,20 +199,20 @@ PHOTO_0403.jpg,ub-3-hall,https://nav.fosdem.org/l/c:2:458.82:177.34/,
 PHOTO_0404.jpg,ub-3-stairs,https://nav.fosdem.org/l/c:2:458.76:184.09/,
 PHOTO_0405.jpg,ub-3-stairs,https://nav.fosdem.org/l/c:2:453.19:183.49/,
 PHOTO_0406.jpg,ub-4-hall,https://nav.fosdem.org/l/c:2:453.57:180.21/,
-PHOTO_0407.jpg,,,
-PHOTO_0408.jpg,,,
-PHOTO_0409.jpg,,,
-PHOTO_0410.jpg,,,
-PHOTO_0411.jpg,,,
-PHOTO_0412.jpg,,,
-PHOTO_0413.jpg,,,
-PHOTO_0414.jpg,,,
-PHOTO_0415.jpg,,,
-PHOTO_0416.jpg,,,
-PHOTO_0417.jpg,,,
-PHOTO_0418.jpg,,,
-PHOTO_0419.jpg,,,
-PHOTO_0420.jpg,,,
+PHOTO_0407.jpg,ub4-corridor,https://nav.fosdem.org/l/c:3:463.88:183.74/,
+PHOTO_0408.jpg,ub4-corridor,https://nav.fosdem.org/l/c:3:466.26:185.37/,
+PHOTO_0409.jpg,ub4-corridor,https://nav.fosdem.org/l/c:3:482.54:185.43/, near entrance ub4132
+PHOTO_0410.jpg,ub4132,https://nav.fosdem.org/l/c:3:480.81:183.15/,
+PHOTO_0411.jpg,ub4132,https://nav.fosdem.org/l/c:3:487.1:182.78/,
+PHOTO_0412.jpg,,https://nav.fosdem.org/l/c:3:491.66:185.18/,near entrance ub4130 (not used by FOSDEM)
+PHOTO_0413.jpg,,https://nav.fosdem.org/l/c:3:496.96:185.61/,near entrance ub4131 (not used by FOSDEM)
+PHOTO_0414.jpg,ub4136,https://nav.fosdem.org/l/c:3:471.24:183.15/,
+PHOTO_0415.jpg,ub4136,https://nav.fosdem.org/l/c:3:477.66:183.15/,
+PHOTO_0416.jpg,,,unclear ub
+PHOTO_0417.jpg,,,unclear ub
+PHOTO_0418.jpg,,,unclear ub
+PHOTO_0419.jpg,,,unclear ub
+PHOTO_0420.jpg,,,unclear ub
 PHOTO_0421.jpg,ua-2-hall,https://nav.fosdem.org/l/c:1:487.65:216.24/,
 PHOTO_0422.jpg,ua2114,https://nav.fosdem.org/l/c:1:490.05:220.6/,
 PHOTO_0423.jpg,ua2114,https://nav.fosdem.org/l/c:1:499.08:204.13/,
