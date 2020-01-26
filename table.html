@@ -61,6 +61,16 @@
 	//        "panorama": "https://gisky.be/fosdem_360/" + link, "autoLoad": true
 	// });		
       }
+      function room(slug)
+      {
+	if(slug)
+	{
+	    var link = "https://nav.fosdem.org/l/" + slug;
+	    return "<a href='"+link+"' target='_blank'>" + slug+"</a>";
+	}
+	else
+	    return ""
+      }
 
       function n(link)
       {
@@ -92,7 +102,7 @@
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false},
-        custom_formatting: [[0, format_photo], [2, format_nav]]
+        custom_formatting: [[0, format_photo], [1, room],[2, format_nav]]
       });
      $(function() {
          $("a").click(function(){
